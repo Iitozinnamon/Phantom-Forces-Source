@@ -21,3 +21,6 @@ These are incomplete / unplayable versions, simply used as resource harvesting.
 | --------- | :----: | :----: | :-------: |
 | Phantom_Forces_2023_testplace.rbxl | Yes | No | Yes |
 | Phantom_Forces_2023_nocl.rbxl | No | No | Yes |
+
+
+At last, dm `luajit` on discord if u have any questions.
