@@ -3,7 +3,9 @@ Includes 2016, 2019 and 2023 places, and one testplace copy.
 
 This can also serve as an archive, of when the big bang didn't happen to StyLiS.
 
-Place file info
+## Playable place file info
+
+These are place files which are playable and working.
 
 | File name | Client | Server | Resources |
 | --------- | :----: | :----: | :-------: |
@@ -11,7 +13,9 @@ Place file info
 | Phantom_Forces_2019.rbxl | Yes | Yes | Yes |
 | Phantom_Forces_2023.rbxl | Yes | Incomplete :( | Yes |
 
-Other place files
+## Other place file info
+
+These are incomplete / unplayable versions, simply used as resource harvesting.
 
 | File name | Client | Server | Resources |
 | --------- | :----: | :----: | :-------: |
