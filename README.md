@@ -3,6 +3,8 @@ Includes 2016, 2019 and 2023 places, and one 2021 testplace copy.
 
 This can also serve as an archive.
 
+The server of `8.0.1f` has yet to be rebuilt, this might take some time, pls stay patient.
+
 ## Playable place file info
 
 These are place files which are playable and working.
