@@ -1,6 +1,7 @@
 # *Phantom-Forces-Source*
 
 Disclaimer: **NON OF THIS IS ACTUAL SOURCE CODE APART FROM THE 2015 AND 2016 BUILDS, THE REST ARE DECOMPS AND / OR MODIFIED VERSIONS.**
+*Or more clearly, 0.14.4a, 2016, 3.0.5, 3.14.3 and 4.7.1k are not decomps, the rest are.*
 
 
 ## Main:
