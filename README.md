@@ -1,5 +1,9 @@
 # Phantom-Forces-Source
-Includes 2016, 2019 and 2023 places, and one 2021 testplace copy.
+Includes
+- 2016
+- 2017
+- 2019
+- 2023
 
 This can also serve as an archive.
 
