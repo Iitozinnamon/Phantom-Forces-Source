@@ -20,7 +20,7 @@ Disclaimer: **NON OF THIS IS ACTUAL SOURCE CODE APART FROM THE 2015 AND 2016 BUI
 
 | File name | Client | Server | Resources | Server Version | Year |
 | --------- | :----: | :----: | :-------: | :------------: | :--: |
-| `Phantom_Forces_3.13.2.rbxl` | Yes | Yes | Yes | `3.13.2` | 2018 |
+| `Phantom_Forces_3.13.2.rbxl` | Yes | No | Yes | `3.13.2` | 2018 |
 | `Phantom_Forces_3.15.1k.rbxl` | Yes | No | Yes | `3.15.1k` | 2018 |
 | `Phantom_Forces_2021_testplace.rbxl` | Yes | No | Yes | `5.6.1` | 2021 |
 | `Phantom_Forces_2023_nocl.rbxl` | No | No | Yes | `8.0.0m` | 2023 |
