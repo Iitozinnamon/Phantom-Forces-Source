@@ -42,4 +42,4 @@ This involves you publishing the place file to roblox, this is required in order
 Im not a mastermind, so even if you contact me on discord and youve tried everything then dont expect much from my help, i have lots of experience modding 2016 pf, but not much else.
 
 
-At last, dm `luajit` on discord if u have any questions.
+At last, dm `ruben134292900` on discord if u have any questions.
