@@ -1,49 +1,31 @@
-# Phantom-Forces-Source
-Includes
-- 2016
-- 2017
-- 2019
-- 2023
+# *Phantom-Forces-Source*
 
-This can also serve as an archive.
-
-The server of `8.0.1f` has yet to be rebuilt, this might take some time, pls stay patient.
-
-## Playable place file info
-
-These are place files which are playable and working.
-
-| File name | Client | Server | Resources | Server Version |
-| --------- | :----: | :----: | :-------: | :------------: |
-| Phantom_Forces_2016.rbxl | Yes | Yes | Yes | `unavailable` |
-| Phantom_Forces_3.0.5.rbxl | Yes | Yes | Yes | `3.0.5` |
-| Phantom_Forces_2019.rbxl | Yes | Yes | Yes | `4.7.1k` |
-| Phantom_Forces_2023.rbxl | Yes | Incomplete :( | Yes | `8.0.1f` |
-
-## Other place file info
-
-These are incomplete / unplayable versions, simply used as resource harvesting.
-
-| File name | Client | Server | Resources | Server Version |
-| --------- | :----: | :----: | :-------: | :------------: |
-| Phantom_Forces_2021_testplace.rbxl | Yes | No | Yes | `5.6.1` |
-| Phantom_Forces_2023_nocl.rbxl | No | No | Yes | `8.0.0m` |
-
-# Getting your copy working.
-The files are all working except `8.0.1f` (incomplete server side), `5.6.1` and `8.0.0m`.
-
-If you selected any of those versions when dont expect your copy to work fully.
-
-here are some tips to get it working.
-
-## 1. Running in studio.
-Some versions (Namely `4.7.1k` and `8.0.1f`) are fully working without publishing to roblox, though some like the 3.0.5 version and 2016 version (and all of its child archive versions stored in it.) do NOT work without publishing to roblox.
-
-## 2. Publishing to roblox.
-This involves you publishing the place file to roblox, this is required in order to enable some permissions for the 2016 copy because it needs access to the database apis.
-
-## 3. Trouble shooting yourself.
-Im not a mastermind, so even if you contact me on discord and youve tried everything then dont expect much from my help, i have lots of experience modding 2016 pf, but not much else.
+Disclaimer: **NON OF THIS IS ACTUAL SOURCE CODE APART FROM THE 2015 AND 2016 BUILDS, THE REST ARE DECOMPS AND / OR MODIFIED VERSIONS.**
 
 
-At last, dm `ruben134292900` on discord if u have any questions.
+## Main:
+
+| File name | Client | Server | Resources | Server Version | Year |
+| --------- | :----: | :----: | :-------: | :------------: | :--: |
+| `Phantom_Forces_2015.rbxl` | Yes | Yes | Yes | `0.14.4a` | 2015 |
+| `Phantom_Forces_2016.rbxl` | Yes | Yes | Yes | `unavailable` | 2016 |
+| `Phantom_Forces_3.0.5.rbxl` | Yes | Yes | Yes | `3.0.5` | 2017 |
+| `Phantom_Forces_3.13.2.rbxl` | Yes | Yes | Yes | `3.13.2` | 2018 |
+| `Phantom_Forces_3.14.3.rbxl` | Yes | Yes | Yes | `3.14.3` | 2018 |
+| `Phantom_Forces_2019.rbxl` | Yes | Yes | Yes | `4.7.1k` | 2019 |
+| `Phantom_Forces_2023.rbxl` | Yes | Incomplete | Yes | `8.0.1f` | 2023 |
+
+## Misc:
+
+> u cant really do anything with these other than get content from them.
+
+| File name | Client | Server | Resources | Server Version | Year |
+| --------- | :----: | :----: | :-------: | :------------: | :--: |
+| `Phantom_Forces_3.15.1k.rbxl` | Yes | No | Yes | `3.15.1k` | 2018 |
+| `Phantom_Forces_2021_testplace.rbxl` | Yes | No | Yes | `5.6.1` | 2021 |
+| `Phantom_Forces_2023_nocl.rbxl` | No | No | Yes | `8.0.0m` | 2023 |
+
+# Credits:
+- [`ruben134292900`](https://github.com/ruben134292900)(me): main leaker.
+- `Chairman`: some versions.
+- `Xander`: `Phantom_Forces_3.0.5.rbxl` file (i got it from someone else.)
