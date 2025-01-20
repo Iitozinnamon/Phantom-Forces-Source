@@ -10,13 +10,13 @@ Note: Most games are best experienced in older clients due to roblox breaking so
 
 | File name | Client | Server | Assets | Server Version | Year | Note |
 | --------- | :----: | :----: | :----: | :------------: | :--: | :--- |
-| `Phantom_Forces_2015.rbxl` | Yes | Yes | Yes | `0.14.4a` | 2015 |      |
-| `Phantom_Forces_2016.rbxl` | Yes | Yes | Yes | `unavailable` | 2016 |  |
-| `Phantom_Forces_3.0.5.rbxl` | Yes | Yes | Yes | `3.0.5` | 2017 | Broken grenades. |
-| `Phantom_Forces_3.14.3.rbxl` | Yes | Yes | Yes | `3.14.3` | 2018 |     |
-| `Phantom_Forces_2019.rbxl` | Yes | Yes | Yes | `4.7.1k` | 2019 |       |
-| `Phantom_Forces_5.7.1e.rbxl` | Yes | Yes | Yes | `5.7.1e` | 2022 | Very playable but a little bit broken, just a tad bit. |
-| `Phantom_Forces_2023.rbxl` | Yes | Incomplete | Yes | `8.0.1f` | 2023 | Incomplete server and will be rebuilt eventually, decomp |
+| [`Phantom_Forces_2015.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/blob/main/main/Phantom_Forces_2015.rbxl) | Yes | Yes | Yes | `0.14.4a` | 2015 |      |
+| [`Phantom_Forces_2016.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_2016.rbxl) | Yes | Yes | Yes | `unavailable` | 2016 |  |
+| [`Phantom_Forces_3.0.5.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_3.0.5.rbxl) | Yes | Yes | Yes | `3.0.5` | 2017 | Broken grenades. |
+| [`Phantom_Forces_3.14.3.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_3.14.3.rbxl) | Yes | Yes | Yes | `3.14.3` | 2018 |     |
+| [`Phantom_Forces_2019.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_2019.rbxl) | Yes | Yes | Yes | `4.7.1k` | 2019 |       |
+| [`Phantom_Forces_5.7.1e.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_5.7.1e.rbxl) | Yes | Yes | Yes | `5.7.1e` | 2022 | Kinda broken, might fix later. |
+| [`Phantom_Forces_2023.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_2023.rbxl) | Yes | Incomplete | Yes | `8.0.1f` | 2023 | Incomplete server and will be rebuilt eventually, decomp |
 
 ## Misc:
 
@@ -24,11 +24,11 @@ Note: Most games are best experienced in older clients due to roblox breaking so
 
 | File name | Client | Server | Assets | Server Version | Year | Note |
 | --------- | :----: | :----: | :----: | :------------: | :--: | :--- |
-| `Phantom_Forces_2.1.3.rbxl` | Yes | Yes | Yes | `2.1.3` | 2017 | Extremely broken, unions dont port over correctly (https://github.com/Iitozinnamon/Phantom-Forces-Source/issues/3). |
-| `Phantom_Forces_3.13.2.rbxl` | No | No | Yes | `3.13.2` | 2018 | Decomp |
-| `Phantom_Forces_3.15.1k.rbxl` | Yes | No | Yes | `3.15.1k` | 2018 | Decomp |
-| `Phantom_Forces_2021_testplace.rbxl` | Yes | No | Yes | `5.6.1` | 2021 | Shitty decomp |
-| `Phantom_Forces_2023_nocl.rbxl` | No | No | Yes | `8.0.0m` | 2023 | Decomp |
+| [`Phantom_Forces_2.1.3.rbxl`]() | Yes | Yes | Yes | `2.1.3` | 2017 | Extremely broken, unions dont port over correctly (https://github.com/Iitozinnamon/Phantom-Forces-Source/issues/3). |
+| [`Phantom_Forces_3.13.2.rbxl`]() | No | No | Yes | `3.13.2` | 2018 | Decomp |
+| [`Phantom_Forces_3.15.1k.rbxl`]() | Yes | No | Yes | `3.15.1k` | 2018 | Decomp |
+| [`Phantom_Forces_2021_testplace.rbxl`]() | Yes | No | Yes | `5.6.1` | 2021 | Shitty decomp |
+| [`Phantom_Forces_2023_nocl.rbxl`]() | No | No | Yes | `8.0.0m` | 2023 | Decomp |
 
 # Credits:
 - [`ruben134292900`](https://github.com/ruben134292900)(me): main leaker.
