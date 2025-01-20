@@ -1,5 +1,11 @@
 # *Phantom-Forces-Source*
 
+A big collection of Phantom Forces place files, not all of them are original and most are just what i and some others could find.
+
+**DISCLAIMER: 2016 AND MAYBE 2015 ARE THE ONLY FILES WITH ACTUAL SOURCE CODE WRITTEN BY STYLIS, THE REST ARE EITHER DECOMPS OR MODIFIED VERSIONS, IN SPITE OF THAT MOST OF THEM ARE FULLY FUNCTIONAL**
+
+Note: Most games are best experienced in older clients due to roblox breaking some older versions, however it is not required in order to play them.
+
 ## Main:
 
 | File name | Client | Server | Assets | Server Version | Year | Note |
