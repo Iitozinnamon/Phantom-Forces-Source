@@ -15,7 +15,7 @@ Note: Most games are best experienced in older clients due to roblox breaking so
 | `Phantom_Forces_3.0.5.rbxl` | Yes | Yes | Yes | `3.0.5` | 2017 | Broken grenades. |
 | `Phantom_Forces_3.14.3.rbxl` | Yes | Yes | Yes | `3.14.3` | 2018 |     |
 | `Phantom_Forces_2019.rbxl` | Yes | Yes | Yes | `4.7.1k` | 2019 |       |
-| `Phantom_Forces_5.7.1e.rbxl` | Yes | Yes | Yes | `5.7.1e` | 2022 | Kinda broken, might fix later. |
+| `Phantom_Forces_5.7.1e.rbxl` | Yes | Yes | Yes | `5.7.1e` | 2022 | Very playable but a little bit broken, just a tad bit. |
 | `Phantom_Forces_2023.rbxl` | Yes | Incomplete | Yes | `8.0.1f` | 2023 | Incomplete server and will be rebuilt eventually, decomp |
 
 ## Misc:
