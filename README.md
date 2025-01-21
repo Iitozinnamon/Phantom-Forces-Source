@@ -36,3 +36,5 @@ Note: Most games are best experienced in older clients due to roblox breaking so
 - `Xander`: `Phantom_Forces_3.0.5.rbxl` file (i got it from someone else.)
 - [`playervalley`](https://github.com/playervalley): `Phantom_Forces_5.7.1e.rbxl` file.
 - [`Canadaduh`](https://github.com/Canadaduh): `Phantom_Forces_2.1.3.rbxl` file.
+
+For more info join [here](https://discord.gg/xkKRHgAMrY)
