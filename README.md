@@ -6,7 +6,7 @@ A big collection of Phantom Forces place files, not all of them are original and
 
 Note: Most games are best experienced in older clients due to roblox breaking some older versions, however it is not required in order to play them.\
 For more info join [here](https://discord.gg/xkKRHgAMrY)\
-For how the pf rewrite is going, click [this](https://github.com/Iitozinnamon/PF-Rewrite)
+For how the pf rewrite is going, click [this](https://github.com/Iitozinnamon/PF-Rewrite/blob/main/features.md)
 
 ## Main:
 
