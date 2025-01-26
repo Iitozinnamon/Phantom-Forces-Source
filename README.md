@@ -5,7 +5,8 @@ A big collection of Phantom Forces place files, not all of them are original and
 **DISCLAIMER: 2016 AND MAYBE 2015 ARE THE ONLY FILES WITH ACTUAL SOURCE CODE WRITTEN BY STYLIS, THE REST ARE EITHER DECOMPS OR MODIFIED VERSIONS, IN SPITE OF THAT MOST OF THEM ARE FULLY FUNCTIONAL**
 
 Note: Most games are best experienced in older clients due to roblox breaking some older versions, however it is not required in order to play them.\
-For more info join [here](https://discord.gg/xkKRHgAMrY)
+For more info join [here](https://discord.gg/xkKRHgAMrY)\
+For how the pf rewrite is going, click [this](https://github.com/Iitozinnamon/PF-Rewrite)
 
 ## Main:
 
