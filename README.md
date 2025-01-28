@@ -4,9 +4,7 @@ A big collection of Phantom Forces place files, not all of them are original and
 
 **DISCLAIMER: 2016 AND MAYBE 2015 ARE THE ONLY FILES WITH ACTUAL SOURCE CODE WRITTEN BY STYLIS, THE REST ARE EITHER DECOMPS OR MODIFIED VERSIONS, IN SPITE OF THAT MOST OF THEM ARE FULLY FUNCTIONAL**
 
-Note: Most games are best experienced in older clients due to roblox breaking some older versions, however it is not required in order to play them.\
-For more info join [here](https://discord.gg/xkKRHgAMrY)\
-For how the pf rewrite is going, click [this](https://github.com/Iitozinnamon/PF-Rewrite/blob/main/features.md)
+Note: Most games are best experienced in older clients due to roblox breaking some older versions, however it is not required in order to play them.
 
 ## Main:
 
@@ -15,9 +13,12 @@ For how the pf rewrite is going, click [this](https://github.com/Iitozinnamon/PF
 | [`Phantom_Forces_2015.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_2015.rbxl) | Yes | Yes | Yes | `0.14.4a` | 2015 |      |
 | [`Phantom_Forces_2016.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_2016.rbxl) | Yes | Yes | Yes | `unavailable` | 2016 |  |
 | [`Phantom_Forces_3.0.5.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_3.0.5.rbxl) | Yes | Yes | Yes | `3.0.5` | 2017 | Broken grenades. |
+| [`Phantom_Forces_3.0.5xl.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_3.0.5xl.rbxl) | Yes | Yes | Yes | `3.0.5xl` | 2017 | |
+| [`Phantom_Forces_CTE_1.34.0.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_CTE_1.34.0.rbxl) | Yes | Yes | Yes | `1.34.0` | 2017 | Has 2016 sliding for some reason. |
 | [`Phantom_Forces_3.14.3.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_3.14.3.rbxl) | Yes | Yes | Yes | `3.14.3` | 2018 |     |
-| [`Phantom_Forces_2019.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_2019.rbxl) | Yes | Yes | Yes | `4.7.1k` | 2019 |       |
+| [`Phantom_Forces_2019.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_2019.rbxl) | Yes | Yes | Yes | `4.7.1k` | 2019 | Grenades dont work, consider using the 2022 build instead. |
 | [`Phantom_Forces_5.7.1e.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_5.7.1e.rbxl) | Yes | Yes | Yes | `5.7.1e` | 2022 | Kinda broken, might fix later. |
+| [`Phantom_Forces_5.7.1e_fixed.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_5.7.1e_fixed.rbxl) | Yes | Yes | Yes | `5.7.1e` | 2022 | Fixed version |
 | [`Phantom_Forces_2023.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/main/Phantom_Forces_2023.rbxl) | Yes | Incomplete | Yes | `8.0.1f` | 2023 | Incomplete server and will be rebuilt eventually, decomp |
 
 ## Misc:
