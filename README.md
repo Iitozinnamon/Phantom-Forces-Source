@@ -35,7 +35,8 @@ Note: Most games are best experienced in older clients due to roblox breaking so
 
 # Credits:
 - [`ruben134292900`](https://github.com/ruben134292900)(me): main leaker.
-- `Chairman`: some versions.
 - `Xander`: `Phantom_Forces_3.0.5.rbxl` file (i got it from someone else.)
 - [`playervalley`](https://github.com/playervalley): `Phantom_Forces_5.7.1e.rbxl` file.
 - [`Canadaduh`](https://github.com/Canadaduh): `Phantom_Forces_2.1.3.rbxl` file.
+
+> chair man used to be here labeled as "- `Chairman`: some versions." but all of his "leaks" were completely dogshit or already leaked, some were even fake.
