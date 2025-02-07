@@ -39,4 +39,4 @@ Note: Most games are best experienced in older clients due to roblox breaking so
 - [`playervalley`](https://github.com/playervalley): `Phantom_Forces_5.7.1e.rbxl` file.
 - [`Canadaduh`](https://github.com/Canadaduh): `Phantom_Forces_2.1.3.rbxl` file.
 
-> chair man used to be here labeled as "- `Chairman`: some versions." but all of his "leaks" were completely dogshit or already leaked, some were even fake.
+> `re7orm` or just reform used to be in here as "Chairman" he had versions like 2014, they were all fake and most of his good leaks were already public despite his friends not wanting him to leak shit.
