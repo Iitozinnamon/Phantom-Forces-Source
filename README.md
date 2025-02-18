@@ -40,7 +40,7 @@ Note: Most games are best experienced in older clients due to roblox breaking so
 | [`Phantom_Forces_2023_reload_fix.rbxl`](https://github.com/Iitozinnamon/Phantom-Forces-Source/raw/refs/heads/main/misc/Phantom_Forces_2023_reload_fix.rbxl) | Yes | Incomplete | Yes | `8.0.1f` | 2023 | Fixes reloading on the client, but no multiplayer or anything, decomp |
 
 # Credits:
-- [`ruben134292900`](https://github.com/ruben134292900)(me): main leaker.
+- [`ruben134292900`](https://github.com/ruben134292900)(me): repo creator.
 - `Xander`: `Phantom_Forces_3.0.5.rbxl` file (i got it from someone else.)
 - [`playervalley`](https://github.com/playervalley): `Phantom_Forces_5.7.1e.rbxl` file.
 - [`Canadaduh`](https://github.com/Canadaduh): `Phantom_Forces_2.1.3.rbxl` file.
